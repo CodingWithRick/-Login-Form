@@ -25,12 +25,7 @@ body{
     margin-bottom: 43px;
     padding: 13px 0;
 }
-img{
-    text-align: center;
-    margin-left: 550px;
-    margin-top: 130px;
-    
-}
+
 .box{
     width: 100%;
     border-bottom: 2px solid purple;
@@ -63,12 +58,12 @@ img{
     border: 2px solid purple;
     border-radius: 10px;
     font-size: 18px;
-    background: none;
+    background: purple;
     color: white;
 }
 .btn:hover{
     
-    opacity: 0.5;
-    background: white;
+    opacity: 0;
+    background: none;
     color: purple;
 }
